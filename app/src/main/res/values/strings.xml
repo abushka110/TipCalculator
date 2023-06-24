@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TipCalculator</string>
+    <string name="bill">Bill:</string>
+    <string name="bull_input_hint">35.68</string>
+    <string name="tip_percentage">Tip Percentage:</string>
+    <string name="tip_percentage_input">20</string>
+    <string name="calculate_btn">Calculate</string>
+    <string name="total">Tip: $32.54 Total: $134.54</string>
 </resources>
